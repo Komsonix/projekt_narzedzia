@@ -48,6 +48,7 @@ void zamiana(int n, int m, int tab1[10][10], int tab2[10][10])
 
 int main()
 {
+	cout<<"Program do zamieniania dwoch tablic"<<endl;
 	int n,m;
 	cout<<"Wczytaj wymiary tablic"<<endl;
 	cin>>n>>m;
